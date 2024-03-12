@@ -1,0 +1,6 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Hey, welcome to cards related prod APIs"
+
